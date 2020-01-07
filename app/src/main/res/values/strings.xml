@@ -1,3 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Messaging App</string>
+    <string name="find_friends">Find Friends</string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="app_name">"Messaging App"</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="need_new_account">Need new Account?</string>
+    <string name="phone">Phone</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="enter_new_status">Enter new Status</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="update">Update</string>
 </resources>
